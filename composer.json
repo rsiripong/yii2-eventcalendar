@@ -17,5 +17,11 @@
         "psr-4": {
             "rsiripong\\eventcalendar\\": ""
         }
+    },
+	"repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/rsiripong/yii2-eventcalendar"
     }
+]
 }
